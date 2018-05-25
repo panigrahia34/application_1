@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="application 1">81fd2315dbda1700c455aab35b9619d9</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>changes</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_228770_applicati_change</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_228770_applicati.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-25 09:21:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c4cee715dbda1700c455aab35b9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>changes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="application 1" source="x_228770_applicati">f4fda3d1dbda1700c455aab35b961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="application 1">f4fda3d1dbda1700c455aab35b961984</sys_scope>
+        <sys_update_name>sys_app_module_c4cee715dbda1700c455aab35b9619fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-25 09:21:47</sys_updated_on>
+        <timeline_page/>
+        <title>changes</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
